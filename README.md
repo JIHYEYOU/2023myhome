@@ -13,6 +13,6 @@
 2.반갑습니다
 1. test
 
-..<div>
-test
-..</div>
+...css
+div.box{width:100px}
+...
